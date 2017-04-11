@@ -1,3 +1,4 @@
+# made by Juanma
 # CSS3 Effects Demos
 
 This repo contains a set if examples using CSS3 properties to get some effects and animations
